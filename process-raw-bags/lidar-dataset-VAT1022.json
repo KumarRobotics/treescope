@@ -1,0 +1,408 @@
+[
+      {
+        "name": "VAT-A1-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A1-M.bag",
+        "bag": "VAT-A1-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A234-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A234-M.bag",
+        "bag": "VAT-A234-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A5-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A5-M.bag",
+        "bag": "VAT-A5-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A6-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A6-M.bag",
+        "bag": "VAT-A6-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A78-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A78-M.bag",
+        "bag": "VAT-A78-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A234-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A234-U.bag",
+        "bag": "VAT-A234-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A5-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A5-U.bag",
+        "bag": "VAT-A5-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-A78-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-A78-U.bag",
+        "bag": "VAT-A78-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH1-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH1-M.bag",
+        "bag": "VAT-MH1-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH2-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH2-M.bag",
+        "bag": "VAT-MH2-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH3-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH3-M.bag",
+        "bag": "VAT-MH3-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH4-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH4-M.bag",
+        "bag": "VAT-MH4-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP4-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP4-M.bag",
+        "bag": "VAT-HP4-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP5-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP5-M.bag",
+        "bag": "VAT-HP5-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP6-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP6-M.bag",
+        "bag": "VAT-HP6-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP7-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP7-M.bag",
+        "bag": "VAT-HP7-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP8-1-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP8-1-M.bag",
+        "bag": "VAT-HP8-1-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP8-2-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP8-2-M.bag",
+        "bag": "VAT-HP8-2-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP231-M",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP231-M.bag",
+        "bag": "VAT-HP231-M.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH3-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH3-U.bag",
+        "bag": "VAT-MH3-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH4-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH4-U.bag",
+        "bag": "VAT-MH4-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP4-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP4-U.bag",
+        "bag": "VAT-HP4-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP5-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP5-U.bag",
+        "bag": "VAT-HP5-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP6-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP6-U.bag",
+        "bag": "VAT-HP6-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP7-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP7-U.bag",
+        "bag": "VAT-HP7-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP8-1-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP8-1-U.bag",
+        "bag": "VAT-HP8-1-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP8-2-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP8-2-U.bag",
+        "bag": "VAT-HP8-2-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-MH12-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-MH12-U.bag",
+        "bag": "VAT-MH12-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+      {
+        "name": "VAT-HP231-U",
+        "dataset": "VAT-1022",
+        "raw_bag": "RAW-VAT-HP231-U.bag",
+        "bag": "VAT-HP231-U.bag",
+        "attributes": {
+          "type": "MLS Cart",
+          "semantic_labels": false,
+          "dbh": false,
+          "description": "",
+          "lidar": "OS0-128",
+          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-1022_01_25_23/"
+        }
+      },
+]

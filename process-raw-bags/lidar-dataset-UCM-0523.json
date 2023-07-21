@@ -1,0 +1,146 @@
+[
+
+  {
+    "name": "UCM-0523U-01",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-01.bag",
+    "bag": "UCM-0523U-01.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-02",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-02.bag",
+    "bag": "UCM-0523U-02.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-03",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-03.bag",
+    "bag": "UCM-0523U-03.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-04",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-04.bag",
+    "bag": "UCM-0523U-04.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-05",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-05.bag",
+    "bag": "UCM-0523U-05.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-06",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-06.bag",
+    "bag": "UCM-0523U-06.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-07",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-07.bag",
+    "bag": "UCM-0523U-07.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+  {
+    "name": "UCM-0523U-08",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-08.bag",
+    "bag": "UCM-0523U-08.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+
+  {
+    "name": "UCM-0523U-09",
+    "dataset": "UCM-0523U",
+    "raw_bag": "RAW-UCM-0523U-09.bag",
+    "bag": "UCM-0523U-09.bag",
+    "attributes": {
+      "type": "ULS Auto",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS1-64",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523U_06_07_23/"
+    }
+  },
+
+
+  {
+    "name": "UCM-0523M-01",
+    "dataset": "UCM-0523M",
+    "raw_bag": "RAW-UCM-0523M-01.bag",
+    "bag": "UCM-0523M-01.bag",
+    "attributes": {
+      "type": "MLS Cart",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS0-128",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523M_06_16_23/"
+    }
+  },
+]
