@@ -126,10 +126,10 @@
       }
     },
     {
-      "name": "UCM-0822-10",
+      "name": "UCM-0822-11",
       "dataset": "UCM-0822",
-      "raw_bag": "RAW-UCM-0822-10.bag",
-      "bag": "UCM-0822-10.bag",
+      "raw_bag": "RAW-UCM-0822-11.bag",
+      "bag": "UCM-0822-11.bag",
       "attributes": {
         "type": "MLS Cart",
         "semantic_labels": false,
@@ -140,45 +140,521 @@
       }
     },
     {
-        "name": "UCM-0822-11",
-        "dataset": "UCM-0822",
-        "raw_bag": "RAW-UCM-0822-11.bag",
-        "bag": "UCM-0822-11.bag",
-        "attributes": {
-          "type": "MLS Cart",
-          "semantic_labels": false,
-          "dbh": false,
-          "description": "",
-          "lidar": "OS0-128",
-          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
-        }
-      },
-      {
-        "name": "UCM-0822-12",
-        "dataset": "UCM-0822",
-        "raw_bag": "RAW-UCM-0822-12.bag",
-        "bag": "UCM-0822-12.bag",
-        "attributes": {
-          "type": "MLS Cart",
-          "semantic_labels": false,
-          "dbh": false,
-          "description": "",
-          "lidar": "OS0-128",
-          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
-        }
-      },
-      {
-        "name": "UCM-0822-13",
-        "dataset": "UCM-0822",
-        "raw_bag": "RAW-UCM-0822-13.bag",
-        "bag": "UCM-0822-13.bag",
-        "attributes": {
-          "type": "MLS Cart",
-          "semantic_labels": false,
-          "dbh": false,
-          "description": "",
-          "lidar": "OS0-128",
-          "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
-        }
-      },
+      "name": "UCM-0822-12",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-12.bag",
+      "bag": "UCM-0822-12.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-13",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-13.bag",
+      "bag": "UCM-0822-13.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-14",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-14.bag",
+      "bag": "UCM-0822-14.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-15",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-15.bag",
+      "bag": "UCM-0822-15.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-16",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-16.bag",
+      "bag": "UCM-0822-16.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-17",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-17.bag",
+      "bag": "UCM-0822-17.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-18",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-18.bag",
+      "bag": "UCM-0822-18.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-19",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-19.bag",
+      "bag": "UCM-0822-19.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-21",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-21.bag",
+      "bag": "UCM-0822-21.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-22",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-22.bag",
+      "bag": "UCM-0822-22.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-23",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-23.bag",
+      "bag": "UCM-0822-23.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-24",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-24.bag",
+      "bag": "UCM-0822-24.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-25",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-25.bag",
+      "bag": "UCM-0822-25.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-26",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-26.bag",
+      "bag": "UCM-0822-26.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-27",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-27.bag",
+      "bag": "UCM-0822-27.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-28",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-28.bag",
+      "bag": "UCM-0822-28.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-29",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-29.bag",
+      "bag": "UCM-0822-29.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-31",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-31.bag",
+      "bag": "UCM-0822-31.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-32",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-32.bag",
+      "bag": "UCM-0822-32.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-33",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-33.bag",
+      "bag": "UCM-0822-33.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-34",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-34.bag",
+      "bag": "UCM-0822-34.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-35",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-35.bag",
+      "bag": "UCM-0822-35.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-36",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-36.bag",
+      "bag": "UCM-0822-36.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-37",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-37.bag",
+      "bag": "UCM-0822-37.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-38",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-38.bag",
+      "bag": "UCM-0822-38.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-39",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-39.bag",
+      "bag": "UCM-0822-39.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-41",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-41.bag",
+      "bag": "UCM-0822-41.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-42",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-42.bag",
+      "bag": "UCM-0822-42.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-43",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-43.bag",
+      "bag": "UCM-0822-43.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-44",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-44.bag",
+      "bag": "UCM-0822-44.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-45",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-45.bag",
+      "bag": "UCM-0822-45.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-46",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-46.bag",
+      "bag": "UCM-0822-46.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-47",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-47.bag",
+      "bag": "UCM-0822-47.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-48",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-48.bag",
+      "bag": "UCM-0822-48.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-49",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-49.bag",
+      "bag": "UCM-0822-49.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-50",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-50.bag",
+      "bag": "UCM-0822-50.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-51",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-51.bag",
+      "bag": "UCM-0822-51.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
 ]
