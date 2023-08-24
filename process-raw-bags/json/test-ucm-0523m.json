@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UCM-0523M-01",
+    "dataset": "UCM-0523",
+    "raw_bag": "RAW-UCM-0523M-01.bag",
+    "bag": "UCM-0523M-01.bag",
+    "attributes": {
+      "type": "MLS Cart",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "",
+      "lidar": "OS0-128",
+      "metadata": "UCM-0523M-os-metadata.json",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0523M_06_16_23/"
+    }
+  },
+]

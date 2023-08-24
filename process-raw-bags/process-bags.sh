@@ -1,5 +1,5 @@
 #!/bin/bash
-dataset_json='UCM-0523.json'
+dataset_json='json/UCM-0523.json'
 
 source /home/derek/Workspaces/backpack_ws/devel/setup.bash
 
