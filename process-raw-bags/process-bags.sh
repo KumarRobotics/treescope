@@ -1,5 +1,5 @@
 #!/bin/bash
-dataset_json='json/UCM-0523.json'
+dataset_json='json/VAT-0723.json'
 
 source /home/derek/Workspaces/backpack_ws/devel/setup.bash
 
@@ -14,7 +14,7 @@ process_bag() {
   echo "--------------------"
 
   # Run rosbag info command and extract desired information
-  info_output=$(rosbag info --yaml /derek_data/ARBORES/$1/input/$2)
+  info_output=$(rosbag info --yaml /derek_data/TreeScope/$1/input/$2)
   duration=$(echo "$info_output" | awk '/duration:/{print $2}')
   echo $duration
 
@@ -40,7 +40,7 @@ f
   if [ $4 == "OS0-128" ]; then
 
     # Run fasterlio
-    roslaunch ouster_ros replay.launch metadata:=/derek_data/ARBORES/$1/metadata/$5 & 
+    roslaunch ouster_ros replay.launch metadata:=/derek_data/TreeScope/$1/metadata/$5 & 
     replay_pid=$!
 
     roslaunch faster_lio mapping_ouster128.launch & 
@@ -48,11 +48,11 @@ f
     sleep 5
 
     # Record bag
-    rosbag record -O "/derek_data/ARBORES/$1/processed/$3" /Odometry /tf /tf_static /os_node/segmented_point_cloud_no_destagger /tree_cloud /tree_cloud_world /ground_cloud /cloud_registered_body /ublox/fix /ublox/fix_velocity __name:=record_bag &
+    rosbag record -O "/derek_data/TreeScope/$1/processed/$3" /Odometry /tf /tf_static /os_node/segmented_point_cloud_no_destagger /tree_cloud /tree_cloud_world /ground_cloud /cloud_registered_body /ublox/fix /ublox/fix_velocity __name:=record_bag &
     sleep 1
 
     # Finally play the bag
-    rosbag play "/derek_data/ARBORES/$1/input/$2" /ouster/imu_packets:=/os_node/imu_packets /ouster/lidar_packets:=/os_node/lidar_packets  --start 0.1
+    rosbag play "/derek_data/TreeScope/$1/input/$2" /ouster/imu_packets:=/os_node/imu_packets /ouster/lidar_packets:=/os_node/lidar_packets  --start 0.1
     playbag_pid=$!
 
   
@@ -66,11 +66,11 @@ f
     sleep 5
 
     # Record bag
-    rosbag record -O "/derek_data/ARBORES/$1/processed/$3" /Odometry /tf /tf_static /os_node/segmented_point_cloud_no_destagger /tree_cloud /tree_cloud_world /ground_cloud /cloud_registered_body /ublox/fix /ublox/fix_velocity __name:=record_bag &
+    rosbag record -O "/derek_data/TreeScope/$1/processed/$3" /Odometry /tf /tf_static /os_node/segmented_point_cloud_no_destagger /tree_cloud /tree_cloud_world /ground_cloud /cloud_registered_body /ublox/fix /ublox/fix_velocity __name:=record_bag &
     sleep 1
 
     # Finally play the bag
-    rosbag play "/derek_data/ARBORES/$1/input/$2" --start 0.1 --topics /os_node/lidar_packets /os_node/imu_packets /os_node/metadata /ublox/fix /ublox/fix_velocity
+    rosbag play "/derek_data/TreeScope/$1/input/$2" --start 0.1 --topics /os_node/lidar_packets /os_node/imu_packets /os_node/metadata /ublox/fix /ublox/fix_velocity
     playbag_pid=$!
   
   fi

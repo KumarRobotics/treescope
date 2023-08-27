@@ -1,0 +1,274 @@
+[
+  {
+      "name": "VAT-0723M-01",
+      "dataset": "VAT-0723",
+      "raw_bag": "RAW-VAT-0723M-01.bag",
+      "bag": "VAT-0723M-01.bag",
+      "attributes": {
+      "type": "MLS Cart",
+      "semantic_labels": false,
+      "dbh": false,
+      "description": "1308LT experiment_5_14_24",
+      "lidar": "OS0-128",
+      "metadata": "VAT-0723M-os-metadata.json",
+      "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+      }
+  },
+  {
+    "name": "VAT-0723M-02",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-02.bag",
+    "bag": "VAT-0723M-02.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "1308LT experiment_6_14_34",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-03",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-03.bag",
+    "bag": "VAT-0723M-03.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "1308CT experiment_7_15_13",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-04",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-04.bag",
+    "bag": "VAT-0723M-04.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "1308CT experiment_8_15_21",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-05",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-05.bag",
+    "bag": "VAT-0723M-05.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "1309LT bags_1309_2023-07-25-13-00-43",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-06",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-06.bag",
+    "bag": "VAT-0723M-06.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "1309CT bags_1309_2023-07-25-13-16-46",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-07",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-07.bag",
+    "bag": "VAT-0723M-07.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "bags_4x12_to_4x4_2023-07-25-09-42-43.bag",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-08",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-08.bag",
+    "bag": "VAT-0723M-08.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "bags_4x4_to_4x_12_2023-07-25-09-59-09.bag",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723M-09",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723M-09.bag",
+    "bag": "VAT-0723M-09.bag",
+    "attributes": {
+    "type": "MLS Cart",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "bags_12x12_2023-07-25-10-18-05.bag",
+    "lidar": "OS0-128",
+    "metadata": "VAT-0723M-os-metadata.json",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723M_08_25_23/"
+    }
+  },
+  {
+    "name": "VAT-0723U-01",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723U-01.bag",
+    "bag": "VAT-0723U-01.bag",
+    "attributes": {
+    "type": "ULS Manual",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "2023-07-24-13-50-39.bag",
+    "lidar": "OS1-64",
+    "metadata": "",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+    }
+  },
+  {
+    "name": "VAT-0723U-02",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723U-02.bag",
+    "bag": "VAT-0723U-02.bag",
+    "attributes": {
+    "type": "ULS Manual",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "07-24-14-30-04.bag",
+    "lidar": "OS1-64",
+    "metadata": "",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+    }
+  },
+  {
+    "name": "VAT-0723U-03",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723U-03.bag",
+    "bag": "VAT-0723U-03.bag",
+    "attributes": {
+    "type": "ULS Manual",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "experiment-5_2023-07-24-14-41-59.bag",
+    "lidar": "OS1-64",
+    "metadata": "",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+    }
+  },
+  {
+    "name": "VAT-0723U-04",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723U-04.bag",
+    "bag": "VAT-0723U-04.bag",
+    "attributes": {
+    "type": "ULS Manual",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "experiment-5_2023-07-24-14-52-19.bag",
+    "lidar": "OS1-64",
+    "metadata": "",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+    }
+  },
+  {
+    "name": "VAT-0723U-05",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723U-05.bag",
+    "bag": "VAT-0723U-05.bag",
+    "attributes": {
+    "type": "ULS Manual",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "experiment-5_2023-07-24-15-42-58.bag",
+    "lidar": "OS1-64",
+    "metadata": "",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+    }
+  },
+  {
+    "name": "VAT-0723U-06",
+    "dataset": "VAT-0723",
+    "raw_bag": "RAW-VAT-0723U-07-AUTO.bag",
+    "bag": "VAT-0723U-06.bag",
+    "attributes": {
+    "type": "ULS Manual",
+    "semantic_labels": false,
+    "dbh": false,
+    "description": "experiment-5_2023-07-25-12-13-03.bag",
+    "lidar": "OS1-64",
+    "metadata": "",
+    "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+    }
+  },
+  // {
+  //   "name": "VAT-0723U-07-AUTO",
+  //   "dataset": "VAT-0723",
+  //   "raw_bag": "RAW-VAT-0723U-07-AUTO.bag",
+  //   "bag": "VAT-0723U-07-AUTO.bag",
+  //   "attributes": {
+  //   "type": "ULS Autonomous",
+  //   "semantic_labels": false,
+  //   "dbh": false,
+  //   "description": "falcon-virginia-field-trip-experiment-5_2023-07-25-14-09-08.bag",
+  //   "lidar": "OS1-64",
+  //   "metadata": "",
+  //   "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+  //   }
+  // },
+  // {
+  //   "name": "VAT-0723U-08-AUTO",
+  //   "dataset": "VAT-0723",
+  //   "raw_bag": "RAW-VAT-0723U-08-AUTO.bag",
+  //   "bag": "VAT-0723U-08-AUTO.bag",
+  //   "attributes": {
+  //   "type": "ULS Autonomous",
+  //   "semantic_labels": false,
+  //   "dbh": false,
+  //   "description": "falcon-virginia-field-trip-experiment-5_2023-07-25-14-30-33.bag",
+  //   "lidar": "OS1-64",
+  //   "metadata": "",
+  //   "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+  //   }
+  // },
+  // {
+  //   "name": "VAT-0723U-09-AUTO",
+  //   "dataset": "VAT-0723",
+  //   "raw_bag": "RAW-VAT-0723U-09-AUTO.bag",
+  //   "bag": "VAT-0723U-09-AUTO.bag",
+  //   "attributes": {
+  //   "type": "ULS Autonomous",
+  //   "semantic_labels": false,
+  //   "dbh": false,
+  //   "description": "falcon-virginia-field-trip-experiment-5_2023-07-25-15-03-54.bag",
+  //   "lidar": "OS1-64",
+  //   "metadata": "",
+  //   "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/VAT-0723U_08_09_23/"
+  //   }
+  // },
+]
+
+
