@@ -1,0 +1,61 @@
+TreeScope/
+├── VAT-0723/
+│   ├── metadata/
+│   │   ├── VAT-0723.json
+│   │   ├── VAT-0723M-os-metadata.json
+│   ├── input/
+│   │   ├── RAW-VAT-0723M-01.bag
+│   │   ├── RAW-VAT-0723U-01.bag
+│   ├── processed/
+│   │   ├── VAT-0723U-01.bag
+│   │   ├── VAT-0723U-02.bag
+│   │   ├── VAT-0723M-01.bag
+│   ├── ground_truth/
+│   │   ├── labels/
+│   │   │   ├── VAT-0723U.h5
+│   │   │   ├── VAT-0723M.h5
+│   │   ├── measurements/
+│   │   │   ├── VAT-0723M-gt.json
+│   │   │   ├── VAT-0723M-01-map.png
+│   │   │   ├── VAT-0723M-02-map.png
+│   │   ├── pcds/
+│   │   │   ├── VAT-0723M-01-tree1.pcd
+│   │   │   ├── VAT-0723M-02-tree22.pcd
+│   │   │   ├── VAT-0723M-03-tree33.pcd
+│   ├── baseline/
+│   │   ├── VAT-0723-DBCRE.yaml
+│   │   ├── VAT-0723-SLOAM.yaml
+│   │   ├── VAT-0723-predictions.yaml
+
+VAT-0723.json
+├── VAT-0723M-01/
+│   ├── "raw_bag": "RAW-VAT-0723M-01.bag"
+│   ├── "bag": "VAT-0723M-01.bag"
+│   ├── attributes
+│   │   ├── "type": "MLS Cart"
+│   │   ├── "lidar": "OS0-128"
+│   │   ├── "metadata": "VAT-0723M-os-metadata.json"
+├── VAT-0723U-01/
+│   ├── "raw_bag": "RAW-VAT-0723U-01.bag"
+│   ├── "bag": "VAT-0723U-01.bag"
+│   ├── attributes
+│   │   ├── "type": "ULS Manual"
+│   │   ├── "lidar": "OS1-64"
+
+
+VAT-0723-gt.json
+├── tree_1/
+│   ├── DBH: 0.17
+│   ├── THT: 18.5
+
+VAT-1022-gt.json
+├── tree_FB_MH1/
+│   ├── DBH: 0.17
+│   ├── THT: 18.5
+│   ├── Diam_Profile
+│   │   ├── 0: 0.207
+│   │   ├── 1: 0.1605
+│   │   ├── 1.37: 0.17
+    
+
+for file in *.pcd; do mv "$file" "VAT-0723M-01_$file"; done
