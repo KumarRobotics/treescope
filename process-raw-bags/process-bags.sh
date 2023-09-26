@@ -1,5 +1,5 @@
 #!/bin/bash
-dataset_json='json/VAT-0723.json'
+dataset_json='json/VAT-1022.json'
 
 source /home/derek/Workspaces/backpack_ws/devel/setup.bash
 

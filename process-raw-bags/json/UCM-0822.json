@@ -10,6 +10,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -24,6 +25,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -38,6 +40,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -52,6 +55,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -66,6 +70,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -80,6 +85,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -94,6 +100,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -108,6 +115,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -122,6 +130,22 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-10",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-10.bag",
+      "bag": "UCM-0822-10.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -136,6 +160,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -150,6 +175,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -164,6 +190,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -178,6 +205,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -192,6 +220,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -206,6 +235,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -220,6 +250,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -234,6 +265,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -248,6 +280,22 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-20",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-20.bag",
+      "bag": "UCM-0822-20.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -262,6 +310,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -276,6 +325,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -290,6 +340,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -304,6 +355,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -318,6 +370,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -332,6 +385,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -346,6 +400,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -360,6 +415,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -374,6 +430,22 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-30",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-30.bag",
+      "bag": "UCM-0822-30.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -388,6 +460,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -402,6 +475,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -416,6 +490,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -430,6 +505,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -444,6 +520,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -458,6 +535,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -472,6 +550,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -486,6 +565,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -500,6 +580,22 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
+        "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
+      }
+    },
+    {
+      "name": "UCM-0822-40",
+      "dataset": "UCM-0822",
+      "raw_bag": "RAW-UCM-0822-40.bag",
+      "bag": "UCM-0822-40.bag",
+      "attributes": {
+        "type": "MLS Cart",
+        "semantic_labels": false,
+        "dbh": false,
+        "description": "",
+        "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -514,6 +610,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -528,6 +625,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -542,6 +640,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -556,6 +655,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -570,6 +670,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -584,6 +685,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -598,6 +700,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -612,6 +715,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -626,6 +730,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -640,6 +745,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
@@ -654,6 +760,7 @@
         "dbh": false,
         "description": "",
         "lidar": "OS0-128",
+        "metadata": "UCM-0822-os-metadata.json",
         "model": "/home/derek/Workspaces/sloam_ws/src/generic-sloam/models/UCM-0822_07_12_23/"
       }
     },
