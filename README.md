@@ -6,7 +6,7 @@
 TreeScope is a robotics dataset for precision agriculture and forestry addressing the counting and mapping of trees in forestry and orchards. TreeScope provides LiDAR data from agricultural environments collected with robotics platforms, such as UAV and mobile robot platforms carried by vehicles and human operators. We provide ground-truth data for semantic segmentation and diameter estimation with over 1,800 manually annotated semantic labels for tree stems and field-measured tree diameters. We share benchmark scripts for these tasks that researchers may use to evaluate the accuracy of their algorithms.
 
 TreeScope processed data, raw data, and code are available to [download](https://treescope.org/download/). 
-For more information about our dataset, please visit [https://treescope.org](https://treescope.org/).
+For more information about our dataset, please visit [https://treescope.org](https://treescope.org/) or watch our [video](https://www.youtube.com/watch?v=750oL-VsSIM).
 
 ## Converting Labels
 
@@ -47,3 +47,9 @@ python3 semantic_segmentation/evaluate_iou.py --dataset <dataset-name> --predict
 }
 ```
 
+## Questions?
+
+Please do not hesitate to contact:
+
+Derek Cheng [derekch@seas.upenn.edu](derekch@seas.upenn.edu)
+Fernando Cladera [fclad@seas.upenn.edu](fclad@seas.upenn.edu)
