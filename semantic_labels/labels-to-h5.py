@@ -68,12 +68,6 @@ for time_str in time_strings:
         o3d.visualization.draw_geometries([tree_pcd])
         o3d.visualization.draw_geometries([ground_pcd])
 
-    # Write to disk
-    # tree_dir = dataset_path + "semantic_labels/tree_trunks/"
-    # ground_dir = dataset_path + "semantic_labels/ground/"
-    # o3d.io.write_point_cloud(tree_dir + time_str + '_tree_pc.pcd', tree_pcd)
-    # o3d.io.write_point_cloud(ground_dir + time_str + '_ground_pc.pcd', ground_pcd)
-
     # Place the dataset in the group for this time string
     tree_pts = np.asarray(tree_pcd.points)
     ground_pts = np.asarray(ground_pcd.points)  # Corrected this line
