@@ -55,6 +55,5 @@ cite our work, please use:
 
 Please do not hesitate to contact:
 
-Derek Cheng [derekch@seas.upenn.edu](derekch@seas.upenn.edu)
-
-Fernando Cladera [fclad@seas.upenn.edu](fclad@seas.upenn.edu)
+Derek Cheng `<derekch[at]seas.upenn.edu>` or
+Fernando Cladera `<fclad[at]seas.upenn.edu>`
