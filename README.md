@@ -3,7 +3,7 @@
 
 ## Overview
 
-[![Watch the video](treescope.png)](https://www.youtube.com/watch?v=750oL-VsSIM)
+[![Watch the video](treescope.gif)](https://www.youtube.com/watch?v=750oL-VsSIM)
 
 **TreeScope** is a robotics dataset for precision agriculture and forestry addressing the counting and mapping of trees in forestry and orchards. **TreeScope** provides LiDAR data from agricultural environments collected with robotics platforms, such as UAV and mobile robot platforms carried by vehicles and human operators. We provide ground-truth data for semantic segmentation and diameter estimation with over 1,800 manually annotated semantic labels for tree stems and field-measured tree diameters. We share benchmark scripts for these tasks that researchers may use to evaluate the accuracy of their algorithms.
 
@@ -51,9 +51,7 @@ cite our work, please use:
 }
 ```
 
-## Questions?
+## Contributions or Questions?
 
-Please do not hesitate to contact:
-
-Derek Cheng `<derekch[at]seas.upenn.edu>` or
-Fernando Cladera `<fclad[at]seas.upenn.edu>`
+Please [fill-out an issue](https://github.com/KumarRobotics/treescope/issues) if you have any questions.
+Do not hesitate to [send your pull request](https://github.com/KumarRobotics/treescope/pulls).
