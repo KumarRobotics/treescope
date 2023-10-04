@@ -7,8 +7,8 @@
 
 **TreeScope** is a robotics dataset for precision agriculture and forestry addressing the counting and mapping of trees in forestry and orchards. **TreeScope** provides LiDAR data from agricultural environments collected with robotics platforms, such as UAV and mobile robot platforms carried by vehicles and human operators. We provide ground-truth data for semantic segmentation and diameter estimation with over 1,800 manually annotated semantic labels for tree stems and field-measured tree diameters. We share benchmark scripts for these tasks that researchers may use to evaluate the accuracy of their algorithms.
 
-**TreeScope** processed data, raw data, and code are available to [download](https://treescope.org/download/). 
-For more information about our dataset, please visit [https://treescope.org](https://treescope.org/) or watch our [video](https://www.youtube.com/watch?v=750oL-VsSIM).
+**TreeScope** processed data, raw data, and code are available to [download](https://test.treescope.org). 
+For more information about our dataset, please visit [https://treescope.org](https://treescope.org/) or watch our [video](https://youtu.be/GgV1PmLEFeI).
 
 ## Converting Labels
 
@@ -38,16 +38,16 @@ python3 semantic_segmentation/evaluate_iou.py --dataset <dataset-name> --predict
 ```
 
 # Citation
-You can access the paper from [arXiv](https://arxiv.org/pdf/**TreeScope**Link). To
+You can access the paper from [arXiv](https://arxiv.org/abs/2310.02162). To
 cite our work, please use:
 ```
 @misc{cheng2023treescope,
-      title={TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards}, 
-      author={Derek Cheng and Fernando Cladera and Ankit Prabhu and Xu Liu and Alan Zhu and P. Corey Green and Reza Ehsani and Pratik Chaudhari and Vijay Kumar},
-      year={2023},
-      eprint={2309.13720},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+  title={TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards}, 
+  author={Derek Cheng and Fernando Cladera Ojeda and Ankit Prabhu and Xu Liu and Alan Zhu and Patrick Corey Green and Reza Ehsani and Pratik Chaudhari and Vijay Kumar},
+  year={2023},
+  eprint={2310.02162},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
 }
 ```
 
