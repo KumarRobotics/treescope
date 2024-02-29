@@ -1,5 +1,4 @@
 # 🌲 TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards
-<!-- ![alt text](https://github.com/daniilidis-group/m3ed/blob/main/M3ED_banner.webp) -->
 
 ## Overview
 
@@ -10,31 +9,34 @@
 **TreeScope** processed data, raw data, and code are available to [download](https://test.treescope.org). 
 For more information about our dataset, please visit [https://treescope.org](https://treescope.org/) or watch our [video](https://youtu.be/GgV1PmLEFeI).
 
+For detailed instructions on how to use this repository, please refer to this [step-by-step tutorial](https://docs.google.com/document/d/1j11YdxhWRJNfgbbc-5mdX1gpp7nh9M_Iu40lXpW7L3g/edit?usp=sharing)
+
 ## Converting Labels
 
 For converting H5 labels into 2D range images:
 ```
-python3 semantic_labels/h5-to-labels.py --file <path-to-h5>
+python3 semantic_segmentation/h5-to-labels.py --file <h5-file> --output <labels>
 ```
 
-For labeled 2D range images into H5 labels:
+For converting labeled 2D range images into H5 labels:
 ```
-python3 semantic_labels/full_data_preprocessor.py -D <path-to-data>
-python3 semantic_labels/labels-to-h5.py --data <path-to-data>
+python3 semantic_segmentation/full_data_preprocessor.py -D <path-to-data>
+python3 semantic_segmentation/labels-to-h5.py --data <path-to-data>
 ```
 
 ## Diameter Estimation Benchmarks
 
 For calculating root-mean-square error of diameter estimation results compared to ground-truth:
 ```
-python3 diameter_estimation/evaluate_dbh_rmse.py --dataset <dataset-name> --predictions <predictions-yaml>
+python3 diameter_estimation/evaluate_dbh_rmse.py <dataset.json> <predictions.yaml> [output.csv]
 ```
 
 ## Semantic Segmentation Benchmarks
 
 For calculating IoU of inference point cloud (projected to 2D range image) compared to ground-truth:
 ```
-python3 semantic_segmentation/evaluate_iou.py --dataset <dataset-name> --predictions <predictions-yaml>
+python3 semantic_segmentation/evaluate_iou.py stacked_image.png <env>.yaml
+python3 semantic_segmentation/evaluate_iou.py ground_truth.png pred.png <env>.yaml
 ```
 
 # Citation
