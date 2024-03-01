@@ -4,34 +4,26 @@ import os
 import argparse
 import h5py
 
-# Usage: python labels-to-h5.py --dataset <dataset-name>
-# Example: python labels-to-h5.py  --dataset UCM-0822
-
-# Default values
-dataset_path = '/derek_data/dataset/labels/'
-dataset = 'UCM-0523-M'
+# Usage: python labels-to-h5.py -D <path-to-data>
 
 # Parse command line arguments
 parser = argparse.ArgumentParser()
-parser.add_argument('--dataset', type=str, default='', help='Dataset directory')
-parser.add_argument('--time', type=str, default='', help='Time string')
+parser.add_argument("--data", "-D", required=True, help="The main dataset directory where the labeled data is stored with the final '/' included")
 parser.add_argument('--visualize', action='store_true', help='Visualize the resulting point cloud')
 args = parser.parse_args()
 
-if args.dataset:
-    dataset = args.dataset
-if args.visualize:
-    visualize = True
+dataset = args.data  
+visualize = args.visualize  
 
 # Create the semantic_labels directory if it doesn't exist
-dataset_path = dataset_path + dataset
-dataset_path = dataset_path.rstrip('/') + '/'
-semantic_dir = dataset_path + "semantic_labels/"
+dataset = dataset.rstrip('/') + '/'
+h5_name = dataset.rstrip('/').split('/')[-1]
+semantic_dir = dataset + "semantic_labels/"
 if not os.path.exists(semantic_dir):
     os.makedirs(semantic_dir)
 
-# Check if the HDF5 file exists in the dataset_path folder
-hdf5_output_path = dataset + '.h5'
+# Check if the HDF5 file exists in the dataset folder
+hdf5_output_path = os.path.join(dataset, f"{h5_name}.h5")
 f = h5py.File(hdf5_output_path, 'a')
         
 # Print all groups and datasets within the HDF5 file
@@ -41,11 +33,11 @@ def print_hdf5_objects(name):
 f.visit(print_hdf5_objects)
 
 # Get all the time strings from the directory
-time_strings = [fname.split('.tiff')[0] for fname in os.listdir(dataset_path + 'scans/') if fname.endswith('.tiff')]
+time_strings = [fname.split('.tiff')[0] for fname in os.listdir(dataset + 'scans/') if fname.endswith('.tiff')]
 
 for time_str in time_strings:
-    labels = np.load(dataset_path + 'converted_labels/label_' + time_str + '.npy')
-    pcd = o3d.io.read_point_cloud(dataset_path + 'converted_scans/point_cloud_' + time_str + '.pcd')
+    labels = np.load(dataset + 'converted_labels/label_' + time_str + '.npy')
+    pcd = o3d.io.read_point_cloud(dataset + 'converted_scans/point_cloud_' + time_str + '.pcd')
 
     # Create a boolean mask for tree and ground points
     tree_mask = (labels == 8)

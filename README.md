@@ -20,8 +20,8 @@ python3 semantic_segmentation/h5-to-labels.py --file <h5-file> --output <labels>
 
 For converting labeled 2D range images into H5 labels:
 ```
-python3 semantic_segmentation/full_data_preprocessor.py -D <path-to-data>
-python3 semantic_segmentation/labels-to-h5.py --data <path-to-data>
+python3 semantic_segmentation/full_data_preprocessor.py -D <path-to-data/>
+python3 semantic_segmentation/labels-to-h5.py -D <path-to-data/>
 ```
 
 ## Diameter Estimation Benchmarks
